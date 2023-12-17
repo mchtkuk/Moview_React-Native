@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Moview_React-Native",
-    "slug": "Moview_React-Native",
+    "slug": "movie-project",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9608efda-be51-464b-8715-38594fe4b2c4"
+      }
+    },
+    "owner": "mchtkk"
   }
 }
